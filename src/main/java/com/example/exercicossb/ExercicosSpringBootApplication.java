@@ -9,5 +9,5 @@ public class ExercicosSpringBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExercicosSpringBootApplication.class, args);
 	}
-
+	
 }
